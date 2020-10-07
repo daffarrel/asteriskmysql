@@ -1,13 +1,6 @@
-DM-AsteriskGUI
+Asteriskmysql realtime
 ==============
 
-Digital-Merge Asterisk GUI using the **Muhammad Usman's Charisma Template** at http://usman.it/free-responsive-admin-template/
-
-This project create a Web GUI to administrate the DIGIUM's Asterisk PBX using RealTime Static(MySQL) for the most of configurations.
-
-You can download an ISO containing the OS + Asterisk + Web GUI here https://code.google.com/p/dm-asterisk-distro/
-
-Check the Screenshots here https://code.google.com/p/dm-asterisk-distro/
 
 
 ##Features:##
@@ -61,4 +54,4 @@ Check the Screenshots here https://code.google.com/p/dm-asterisk-distro/
 + Administrate Voicemail Settings(password, name, email).
 
 
-by navaismo@gmail.com
+by caotuankiet@gmail.com
