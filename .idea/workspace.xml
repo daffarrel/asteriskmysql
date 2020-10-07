@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60579b26-cd7a-4aa0-8ed5-20b3d83d8e41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1iRM8GUOaZdFUICDp0cZev0xzor" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/helpers" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/helpers" />
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="addsip.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" temporary="true" path="$PROJECT_DIR$/helpers/addsip.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.addsip.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60579b26-cd7a-4aa0-8ed5-20b3d83d8e41" name="Default Changelist" comment="" />
+      <created>1601865796767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601865796767</updated>
+      <workItem from="1601865800180" duration="14740000" />
+      <workItem from="1601946600977" duration="6858000" />
+      <workItem from="1601969432896" duration="6859000" />
+      <workItem from="1602033474930" duration="4699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601867112387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601867112387" />
+    <state x="442" y="233" width="472" height="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602036455141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="233" width="472" height="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1602036455141" />
+    <state x="453" y="278" width="449" height="168" key="ComposerInitDialogKey" timestamp="1602036394845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="278" width="449" height="168" key="ComposerInitDialogKey/0.0.1366.728@0.0.1366.728" timestamp="1602036394845" />
+    <state x="503" y="284" key="Github.CreateGistDialog" timestamp="1602036663009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="503" y="284" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1602036663008" />
+    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1602036404089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1602036404089" />
+    <state x="278" y="85" width="883" height="614" key="find.popup" timestamp="1602035979144">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="85" width="883" height="614" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1602035979144" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602034785855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602034785855" />
+    <state x="408" y="277" width="540" height="169" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601885162121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="277" width="540" height="169" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1601885162121" />
+  </component>
+</project>
