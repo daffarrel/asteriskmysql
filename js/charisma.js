@@ -2168,7 +2168,7 @@ $("#customeridvm").change(function(){
  function upregiax(){
 	$.ajax({
 	        type: "GET",
-                url: "helpers/getregiax.php",
+               url: "helpers/getregiax.php",
                 data: {1: 1},
                 dataType: "json",
 	        success: function(res){

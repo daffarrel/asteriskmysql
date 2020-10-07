@@ -239,7 +239,7 @@ header( 'Content-Type: text/html; charset=utf-8' );
 						</p>
 
 						<?php
-							require_once('include/phpagi-asmanager.php');
+							require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 
 						        $asm = new AGI_AsteriskManager();
 						          if($asm->connect('localhost','admin','m4nag3rt3ts')){
@@ -266,7 +266,7 @@ header( 'Content-Type: text/html; charset=utf-8' );
 						</p>
 
 						<?php
-							require_once('include/phpagi-asmanager.php');
+							require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 
 						        $asm = new AGI_AsteriskManager();
 						          if($asm->connect('localhost','admin','m4nag3rt3ts')){

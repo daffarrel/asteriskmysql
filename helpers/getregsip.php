@@ -1,6 +1,6 @@
 
 <?php
- require_once('include/phpagi-asmanager.php');
+ require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 session_start();
 
 if (!(isset($_SESSION['login']) && $_SESSION['login'] != '')) {
@@ -8,7 +8,7 @@ header ("Location: ../index.php");
 
 }else{
 	$asm = new AGI_AsteriskManager();
-	  if($asm->connect('125.253.117.83','amiws','amiws')){
+	  if($asm->connect('localhost','amiws','amiws')){
         	$peer = $asm->command("sip show peers");
 	        //print_r($peer);
         	preg_match('/Monitored: (.*)/', $peer['data'], $val);

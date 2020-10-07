@@ -8,7 +8,7 @@ header ("Location: ../index.php");
 
 
 //$file = file_get_contents('ftp://root:Kiet#1005@123@125.253.117.83/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
-//require_once('include/phpagi-asmanager.php');
+//require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 include "../include/loginsql.php";
 
 $extension=$_GET['extension'];

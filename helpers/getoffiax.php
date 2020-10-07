@@ -6,7 +6,7 @@ if (!(isset($_SESSION['login']) && $_SESSION['login'] != '')) {
 header ("Location: ../index.php");
 
 }else{
-require_once('include/phpagi-asmanager.php');
+require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 
         $asm = new AGI_AsteriskManager();
           if($asm->connect('localhost','amiws','amiws')){

@@ -6,7 +6,7 @@ header ("Location: ../userlog.php.php");
 
 }else{
 include "loginsql.php";
-require_once('include/phpagi-asmanager.php');
+require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 
 $peer=$_GET['peer'];
 $value=$_GET['value'];

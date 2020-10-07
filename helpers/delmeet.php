@@ -6,7 +6,7 @@ header ("Location: ../index.php");
 
 }else{
 include '../include/loginsql.php';
-require_once('include/phpagi-asmanager.php');
+require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 
 $id=$_GET['id'];
 

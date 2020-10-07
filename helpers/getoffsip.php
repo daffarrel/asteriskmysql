@@ -1,6 +1,6 @@
 
 <?php
- require_once('include/phpagi-asmanager.php');
+ require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 session_start();
 
 if (!(isset($_SESSION['login']) && $_SESSION['login'] != '')) {
