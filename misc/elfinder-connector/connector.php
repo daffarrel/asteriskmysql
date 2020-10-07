@@ -45,7 +45,7 @@ $opts = array(
 		)
 	)
 );
-var_dump($opts);
+
 // run elFinder
 $connector = new elFinderConnector(new elFinder($opts));
 $connector->run();

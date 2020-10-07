@@ -492,7 +492,7 @@ $("#extension").change(function(){
 		$.ajax({
 	                type: "GET",
                         url: "helpers/addsip.php",
-                        data:{extension: extension.val(), secret: secret.val(), callerid: callerid.val(), context: context.val(), mailbox: mailbox.val(), email: email.val(), nat: nat.val(), host: host.val(), callgroup: callgroup.val(), pickupgroup: pickupgroup.val(), qualify: qualify.val(), allow: allow.val(), videosupport: videosupport.val(), type: type.val(), account: accountcode.val(), editpin: $("#editpin").val(), permit:$("#permit").val(),deny: $("#deny").val(),transport:$("#transport").val(),dtmfmode:$("#dtmfmode").val(),directmedia:$("#directmedia").val(),encryption:$("#encryption").val(), qualify: $("#qualify").val()}, 
+                        data:{extension: extension.val(), secret: secret.val(), callerid: callerid.val(), context: context.val(), mailbox: mailbox.val(), email: email.val(), nat: nat.val(), host: host.val(), qualify: qualify.val(), allow: allow.val(), videosupport: videosupport.val(), type: type.val(), account: accountcode.val(), editpin: $("#editpin").val(), permit:$("#permit").val(),deny: $("#deny").val(),transport:$("#transport").val(),dtmfmode:$("#dtmfmode").val(),directmedia:$("#directmedia").val(),encryption:$("#encryption").val(), qualify: $("#qualify").val()},
         	        success: function(data){
 				if ( data == 0 ){
 					alert(" All Data is Required !!!!");
