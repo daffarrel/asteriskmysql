@@ -8,7 +8,7 @@
 /*----XOpen Local audio Incoming call.	*/
 /*	Video usage.			*/
 /*					*/
-/*	by navaismo at gmail dot com	*/
+/*	by KietCao at gmail dot com	*/
 /*	last rev: 29/03/2013		*/
 /*					*/
 /*	last rev: 30/03/2013		*/

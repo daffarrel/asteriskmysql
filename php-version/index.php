@@ -117,7 +117,7 @@
 										<img class="dashboard-avatar" alt="Usman" src="http://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( "usman@halalit.net" ) ) ); ?>.png?s=50"></a>
 										<strong>Name:</strong> <a href="#">Usman
 									</a><br>
-									<strong>Since:</strong> 17/05/2012<br>
+									<strong>Since:</strong> 17/05/2020<br>
 									<strong>Status:</strong> <span class="label label-success">Approved</span>                                  
 								</li>
 								<li>
@@ -125,7 +125,7 @@
 										<img class="dashboard-avatar" alt="Sheikh Heera" src="http://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( "heerasheikh@ymail.com" ) ) ); ?>.png?s=50"></a>
 										<strong>Name:</strong> <a href="#">Sheikh Heera
 									</a><br>
-									<strong>Since:</strong> 17/05/2012<br>
+									<strong>Since:</strong> 17/05/2020<br>
 									<strong>Status:</strong> <span class="label label-warning">Pending</span>                                 
 								</li>
 								<li>
@@ -133,7 +133,7 @@
 										<img class="dashboard-avatar" alt="Abdullah" src="http://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( "abdullah123456@abc.com" ) ) ); ?>.png?s=50"></a>
 										<strong>Name:</strong> <a href="#">Abdullah
 									</a><br>
-									<strong>Since:</strong> 25/05/2012<br>
+									<strong>Since:</strong> 25/05/2020<br>
 									<strong>Status:</strong> <span class="label label-important">Banned</span>                                  
 								</li>
 								<li>
@@ -141,7 +141,7 @@
 										<img class="dashboard-avatar" alt="Saruar Ahmed" src="http://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( "saruarall@gmail.com" ) ) ); ?>.png?s=50"></a>
 										<strong>Name:</strong> <a href="#">Saruar Ahmed
 									</a><br>
-									<strong>Since:</strong> 17/05/2012<br>
+									<strong>Since:</strong> 17/05/2020<br>
 									<strong>Status:</strong> <span class="label label-info">Updates</span>                                  
 								</li>
 							</ul>

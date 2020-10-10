@@ -8,7 +8,7 @@ header ("Location: ../index.php");
 
 
 //$file = file_get_contents('ftp://root:Kiet#1005@123@125.253.117.83/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
-//require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
+require_once('/var/lib/asterisk/agi-bin/phpagi-asmanager.php');
 include "../include/loginsql.php";
 
 $extension=$_GET['extension'];
@@ -46,22 +46,13 @@ if($extension==''){
 }elseif( $mailbox==''){ 
 	echo "0";
 
-}elseif( $email==''){ 
-	echo "0";
-
 }elseif( $nat==''){ 
 	echo "0";
 
 }elseif( $host==''){ 
 	echo "0";
 
-}elseif( $callgroup==''){ 
-	echo "0";
-
-}elseif( $pickupgroup==''){ 
-	echo "0";
-
-}elseif( $qualify==''){ 
+}elseif( $qualify==''){
 	echo "0";
 
 }elseif( $allow==''){ 

@@ -14,7 +14,7 @@ header( 'Content-Type: text/html; charset=utf-8' );
 	<!--
 		Charisma v1.0.0
 
-		Copyright 2012 Muhammad Usman
+		Copyright 2020 KietCao
 		Licensed under the Apache License v2.0
 		http://www.apache.org/licenses/LICENSE-2.0
 
@@ -25,7 +25,7 @@ header( 'Content-Type: text/html; charset=utf-8' );
 	<title>Digital-Merge's Asterisk GUI</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Charisma, a fully featured, responsive, HTML5, Bootstrap admin template.">
-	<meta name="author" content="Muhammad Usman">
+	<meta name="author" content="KietCao">
 
 	<!-- The styles -->
 	<link id="bs-css" href="css/bootstrap-cerulean.css" rel="stylesheet">
@@ -252,7 +252,7 @@ header( 'Content-Type: text/html; charset=utf-8' );
 		</div>
 
 		<footer>
-			<p class="pull-left">&copy; <a href="http://usman.it" target="_blank">Muhammad Usman</a> 2012</p>
+			<p class="pull-left">&copy; <a href="http://usman.it" target="_blank">KietCao</a> 2020</p>
 			<p class="pull-right">Powered by: <a href="http://usman.it/free-responsive-admin-template">Charisma</a></p>
 		</footer>
 		

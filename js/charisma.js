@@ -499,10 +499,12 @@ $("#extension").change(function(){
 				}else{
                                		//window.top.location="main.php#sippeer";
 					window.top.location.reload();
+
 				}
                         }
 
 		});
+		var_dump(data);
 	});
 
 

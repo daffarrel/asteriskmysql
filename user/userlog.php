@@ -4,7 +4,7 @@
 	<!--
 		Charisma v1.0.0
 
-		Copyright 2012 Muhammad Usman
+		Copyright 2020 KietCao
 		Licensed under the Apache License v2.0
 		http://www.apache.org/licenses/LICENSE-2.0
 
@@ -15,7 +15,7 @@
 	<title>Digital-Merge's Asterisk GUI</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Charisma, a fully featured, responsive, HTML5, Bootstrap admin template.">
-	<meta name="author" content="Muhammad Usman">
+	<meta name="author" content="KietCao">
 
 	<!-- The styles -->
 	<link  href="../css/bootstrap-cerulean.css" rel="stylesheet">
