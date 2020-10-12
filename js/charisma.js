@@ -504,7 +504,6 @@ $("#extension").change(function(){
                         }
 
 		});
-		var_dump(data);
 	});
 
 

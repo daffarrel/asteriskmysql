@@ -3,77 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="60579b26-cd7a-4aa0-8ed5-20b3d83d8e41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdr.php" beforeDir="false" afterPath="$PROJECT_DIR$/cdr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-cerulean.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-cerulean.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-classic.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-classic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-classic.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-classic.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-cyborg.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-cyborg.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-journal.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-journal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-redy.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-redy.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-simplex.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-simplex.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-slate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-slate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-spacelab.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-spacelab.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-united.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-united.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/elfinder.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/elfinder.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fullcalendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fullcalendar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fullcalendar.print.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fullcalendar.print.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery-ui-1.8.21.custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery-ui-1.8.21.custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/uploadify.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/uploadify.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dahdif.php" beforeDir="false" afterPath="$PROJECT_DIR$/dahdif.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dialplan.php" beforeDir="false" afterPath="$PROJECT_DIR$/dialplan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dpgen.php" beforeDir="false" afterPath="$PROJECT_DIR$/dpgen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/help.php" beforeDir="false" afterPath="$PROJECT_DIR$/help.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helpers/addsip.php" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/addsip.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iax.php" beforeDir="false" afterPath="$PROJECT_DIR$/iax.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iaxf.php" beforeDir="false" afterPath="$PROJECT_DIR$/iaxf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/SIPml-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/SIPml-api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-collapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-popover.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-popover.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-scrollspy.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-scrollspy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-tab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-toggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-toggle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-tour.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-tour.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-transition.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-transition.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-typeahead.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap-typeahead.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/charisma.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/charisma.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/fullcalendar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/fullcalendar.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-latest.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-latest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-ui-1.8.21.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-ui-1.8.21.custom.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.dataTables.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.elfinder.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.elfinder.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.uploadify-3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.uploadify-3.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetme.php" beforeDir="false" afterPath="$PROJECT_DIR$/meetme.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/check-exists.php" beforeDir="false" afterPath="$PROJECT_DIR$/misc/check-exists.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/uploadify.php" beforeDir="false" afterPath="$PROJECT_DIR$/misc/uploadify.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-version/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-version/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-version/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-version/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-version/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-version/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-version/table.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-version/table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinset.php" beforeDir="false" afterPath="$PROJECT_DIR$/pinset.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue.php" beforeDir="false" afterPath="$PROJECT_DIR$/queue.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recordings.php" beforeDir="false" afterPath="$PROJECT_DIR$/recordings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sip.php" beforeDir="false" afterPath="$PROJECT_DIR$/sip.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sipf.php" beforeDir="false" afterPath="$PROJECT_DIR$/sipf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tls.php" beforeDir="false" afterPath="$PROJECT_DIR$/tls.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/js/mywebp.js" beforeDir="false" afterPath="$PROJECT_DIR$/user/js/mywebp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/user/user.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userlog.php" beforeDir="false" afterPath="$PROJECT_DIR$/user/userlog.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vmt.php" beforeDir="false" afterPath="$PROJECT_DIR$/vmt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/voicemail.php" beforeDir="false" afterPath="$PROJECT_DIR$/voicemail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webrtc2sip.php" beforeDir="false" afterPath="$PROJECT_DIR$/webrtc2sip.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +65,8 @@
       <workItem from="1601969432896" duration="6859000" />
       <workItem from="1602033474930" duration="17255000" />
       <workItem from="1602119056443" duration="4462000" />
-      <workItem from="1602316530279" duration="283000" />
+      <workItem from="1602316530279" duration="875000" />
+      <workItem from="1602466682389" duration="1961000" />
     </task>
     <servers />
   </component>
@@ -186,10 +118,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1602036404089" />
-    <state x="278" y="85" width="883" height="614" key="find.popup" timestamp="1602316784961">
+    <state x="278" y="85" width="883" height="614" key="find.popup" timestamp="1602468680167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="278" y="85" width="883" height="614" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1602316784961" />
+    <state x="278" y="85" width="883" height="614" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1602468680167" />
     <state x="347" y="159" key="run.anything.popup" timestamp="1602119783146">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

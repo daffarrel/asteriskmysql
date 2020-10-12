@@ -90,6 +90,7 @@ mysql_query($sql2) or die(mysql_error());
 $file = basename("/etc/asterisk/extensions.conf");
 $text = file_get_contents("/etc/asterisk/extensions.conf");
 $checkcontent=';;last line extensions';
+	file_put_contents('/etc/asterisk/'.$file, $text);
 $pos = strripos($text, $checkcontent);
 	if ($pos == false )
 		{
